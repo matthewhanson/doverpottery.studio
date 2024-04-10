@@ -979,7 +979,6 @@ h4.see-also {
 }
 
 .well {
-  background-color: var(--color3);
   background-image: url('/img/pitchers-watercolor.png');
   background-size: contain;
   border-color: black;
@@ -998,7 +997,6 @@ h4.see-also {
     color: #ccc;
   }
   .well {
-    background-color: var(--color4);
     border-color: black
   }
   .panel {

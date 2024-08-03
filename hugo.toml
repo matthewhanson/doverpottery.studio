@@ -2,34 +2,37 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'DOVER POTTERY STUDIO'
 
-
-
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-subtitle = "building a pottery community"
+subtitle = "a community artspace"
 mainSections = ["posts"]
 logo = "img/dps-logo-v2-gold.png"
 hideAuthor = true
 tags = false
 
-#[[menus.main]]
-#name = 'Home'
-#pageRef = '/'
-#weight = 10
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
 
-#[[menus.main]]
-#name = 'News'
-#pageRef = '/posts'
-#weight = 20
+[[menus.main]]
+name = 'Classes'
+url = 'https://doverpotterystudio.kilnfire.com/classes'
+weight = 20
 
-#[[menus.main]]
-#name = 'Tags'
-#pageRef = '/tags'
-#weight = 30
+[[menus.main]]
+name = 'Supplies'
+url = 'https://doverpotterystudio.kilnfire.com/supplies'
+weight = 30
+
+[[menus.main]]
+  name = "Facebook"
+  url = "https://facebook.com/doverpottery.studio"
+  weight = 30
 
 [module]
   [module.hugoVersion]

@@ -2,6 +2,7 @@
     {{ partial "page_meta.html" . }}
   {{ end }}
 <footer>
+  {{- partial "footer_custom.html" . }}
   <div class="container">
     {{ if .Site.Params.disclaimerText }}
     <div class="row">
@@ -164,4 +165,3 @@ $(function(){
 <!-- End Delayed Disqus -->
 {{ end }}
 
-{{- partial "footer_custom.html" . }}

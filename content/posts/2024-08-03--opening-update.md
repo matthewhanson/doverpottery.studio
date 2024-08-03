@@ -19,12 +19,12 @@ The studio is nearly ready. The last few months have seen a complete remodel of 
 We're setting up our first Kiln, with plans to add a second one in the coming months. We've got 10 Shimpo XL wheels to start with 2 in the member area. While we still have a lot to do this month to fill the space, we wanted to share some photos of the transformation over the last few months.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/img/opening-update/construction-1-thumb.jpg" link="/img/opening-update/construction-1.jpg" caption="Our first look" >}}
-  {{< figure src="/img/opening-update/construction-2-thumb.jpg" link="/img/opening-update/construction-2.jpg" caption="Before" >}}
-  {{< figure src="/img/opening-update/construction-3-thumb.jpg" link="/img/opening-update/construction-3.jpg" caption="After" >}}
-  {{< figure src="/img/opening-update/construction-4-thumb.jpg" link="/img/opening-update/construction-4.jpg" caption="Class area" >}}
-  {{< figure src="/img/opening-update/construction-5-thumb.jpg" link="/img/opening-update/construction-5.jpg" caption="Member room" >}}
-  {{< figure src="/img/opening-update/construction-6-thumb.jpg" link="/img/opening-update/construction-6.jpg" caption="Kitchenette/Break room" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-1.jpg" caption="Our first look" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-2.jpg" caption="Before" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-3.jpg" caption="After" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-4.jpg" caption="Class area" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-5.jpg" caption="Member room" >}}
+  {{< figure thumb="-small" link="/img/opening-update/construction-6.jpg" caption="Kitchenette/Break room" >}}
 {{< /gallery >}}
 
 ## Class Sign-ups and Materials

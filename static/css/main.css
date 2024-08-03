@@ -22,6 +22,27 @@
 }
 
 
+#mc_embed_signup {
+  clear: left;
+  font: 16px "PT Mono", monospace;
+  margin: 0 auto;
+}
+.button {
+  text-align: center;
+  justify-content: flex-end;
+}
+
+/* Intro */
+
+.intro {
+  text-align: center;
+}
+
+.intro a {
+  color: var(--color1);
+}
+
+
 /* --- General --- */
 
 body {
@@ -982,9 +1003,14 @@ h4.see-also {
   background-image: url('/img/pitchers-watercolor.png');
   background-size: contain;
   border-color: black;
-  color: var(--color2);
+  color: var(--color6);
   text-align: center;
-  font-family: "PT Mono", monospace;
+  font-family: "Old Standard TT", serif;
+  color: var(--color2);
+  font-size: 20pt;
+}
+.a {
+  color: var(--color1)
 }
 
 /* Dark mode */

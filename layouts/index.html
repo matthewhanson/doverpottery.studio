@@ -8,6 +8,12 @@
           </div>
         {{ end }}
 
+        <div class="intro">
+        <a href="https://doverpotterystudio.kilnfire.com/classes">
+          Browse and sign up for Classes
+        </a>
+        </div>
+
         <div class="posts-list">
           {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
           {{ range $pag.Pages }}

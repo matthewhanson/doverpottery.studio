@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'DOVER POTTERY STUDIO'
-theme = ["hugo-easy-gallery"]
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true

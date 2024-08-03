@@ -18,6 +18,7 @@ The studio is nearly ready. The last few months have seen a complete remodel of 
 
 We're setting up our first Kiln, with plans to add a second one in the coming months. We've got 10 Shimpo XL wheels to start with 2 in the member area. While we still have a lot to do this month to fill the space, we wanted to share some photos of the transformation over the last few months.
 
+
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-small" link="/img/opening-update/construction-1.jpg" caption="Our first look" >}}
   {{< figure thumb="-small" link="/img/opening-update/construction-2.jpg" caption="Before" >}}

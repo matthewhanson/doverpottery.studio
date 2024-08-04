@@ -18,7 +18,6 @@ The studio is nearly ready. The last few months have seen a complete remodel of 
 
 We're setting up our first Kiln, with plans to add a second one in the coming months. We've got 10 Shimpo XL wheels to start with 2 in the member area. While we still have a lot to do this month to fill the space, we wanted to share some photos of the transformation over the last few months.
 
-
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-small" link="/img/opening-update/construction-1.jpg" caption="Our first look" >}}
   {{< figure thumb="-small" link="/img/opening-update/construction-2.jpg" caption="Before" >}}
@@ -27,6 +26,8 @@ We're setting up our first Kiln, with plans to add a second one in the coming mo
   {{< figure thumb="-small" link="/img/opening-update/construction-5.jpg" caption="Member room" >}}
   {{< figure thumb="-small" link="/img/opening-update/construction-6.jpg" caption="Kitchenette/Break room" >}}
 {{< /gallery >}}
+
+{{< load-photoswipe >}}
 
 ## Class Sign-ups and Materials
 We're using [Kilnfire](https://kilnfire.com/) to handle [class sign-ups](https://doverpotterystudio.kilnfire.com/classes) and [material purchases](https://doverpotterystudio.kilnfire.com/supplies), which should make things easy and efficient for everyone. We're currently picking out the perfect glazes and ordering clay to ensure you have the best materials to work with. Additionally, we've received a new batch of stickers and will be ordering T-shirts for those of you who like the Studio's timeless logo.

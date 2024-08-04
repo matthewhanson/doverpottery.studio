@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "name": "Pottery Class",
+    "description": "Learn the art of pottery in our hands-on classes.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Dover Pottery Studio"
+    }
+  }

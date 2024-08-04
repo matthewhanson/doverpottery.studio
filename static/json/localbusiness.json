@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Dover Pottery Studio LLC",
+    "image": "https://doverpottery.studio/img/dps-logo-v2-gold.png",
+    "description": "Pottery studio offering single and multi-week classes and memberships",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 Third Street, LL-100",
+      "addressLocality": "Dover",
+      "addressRegion": "NH",
+      "postalCode": "03820",
+      "addressCountry": "US"
+    },
+    "url": "https://doverpottery.studio"
+  }
+  

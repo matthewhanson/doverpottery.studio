@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://doverpottery.studio'
 languageCode = 'en-us'
-title = 'DOVER POTTERY STUDIO'
+title = "DOVER POTTERY STUDIO"
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -8,8 +8,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-subtitle = "a community artspace"
+subtitle = "a learning artspace"
 mainSections = ["posts"]
+description = "Join our pottery classes in Dover and learn the art of pottery. Sign up today at Dover Pottery Studio."
 logo = "img/dps-logo-v2-gold.png"
 hideAuthor = true
 tags = false
@@ -21,20 +22,32 @@ weight = 10
 
 [[menus.main]]
 name = 'Classes'
-url = 'https://doverpotterystudio.kilnfire.com/classes'
+pageRef = '/classes'
 weight = 20
 
 [[menus.main]]
-name = 'Supplies'
-url = 'https://doverpotterystudio.kilnfire.com/supplies'
+name = 'Memberships'
+pageRef = '/memberships'
 weight = 30
 
 [[menus.main]]
-  name = "Facebook"
-  url = "https://facebook.com/doverpottery.studio"
-  weight = 30
+name = 'News'
+pageRef = '/posts'
+weight = 30
+
+[[menus.main]]
+name = 'Supplies'
+pageRef = '/supplies'
+weight = 30
 
 [module]
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false # default is true
+
+[markup.goldmark.parser.attribute]
+title = true # default is true; applies to h1-h6 elements
+block = true # default is false; applies to other block-level elements

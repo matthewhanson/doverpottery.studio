@@ -1,6 +1,6 @@
 ---
-title: Opening Soon
-subtitle: Coming To Dover September 2024
+title: Pottery Coming to Dover
+subtitle: Opening September 2024
 date: 2024-04-07
 ---
 

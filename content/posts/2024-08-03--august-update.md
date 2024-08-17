@@ -1,5 +1,5 @@
 ---
-title: Opening Update!
+title: August Update
 subtitle: Classes start September 10th
 date: 2024-08-03
 ---

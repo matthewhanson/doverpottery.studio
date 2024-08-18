@@ -17,6 +17,6 @@ used in our kiln must come from the studio.
 We stock a few different types of clay and will continue to try out new clay bodies as there is interest.
 Please let us know what you would like to see!
 
-{{< kilnfire_button url="https://doverpotterystudio.kilnfire.com/supplies" text="Purchase Supplies" >}}
-
 We also have merch available from time to time, keep checking back!
+
+{{< kilnfire_button url="https://doverpotterystudio.kilnfire.com/supplies" text="Purchase Supplies" >}}

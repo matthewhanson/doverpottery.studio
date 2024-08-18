@@ -5,7 +5,7 @@ image: "/img/cc4/pexels-gabby-k-5302906-square-thumb.jpg"
 bigimg: [{"src": "/img/cc4/pexels-gabby-k-5302906-square.jpg"}]
 ---
 
-We offer multiple levels of classes at different levels of commitment, from single sessions to 8-week classes. The buttons below will take you to our Kilnfire app for class registrations and purchasing supplies.
+We offer multiple classes at different levels of commitment, from single sessions to 8-week classes. The buttons below will take you to our Kilnfire app for class registrations and purchasing supplies.
 
 {{< kilnfire_button url="https://doverpotterystudio.kilnfire.com/classes" text="All Classes" >}}
 

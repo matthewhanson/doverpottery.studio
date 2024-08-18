@@ -113,6 +113,28 @@ figure.floatleft {
   }
 }
 
+/* footer map */
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* This will center the content horizontally */
+  text-align: left; /* Ensure the address is left-aligned */
+  margin: 0 auto; /* Center the container itself */
+  max-width: 800px; /* Optionally set a max-width for the footer content */
+  color: var(--color2);
+}
+
+.footer-address {
+  margin-right: 20px; /* Adjust spacing between address and map */
+}
+
+.footer-map iframe {
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 20px;
+}
+
 
 
 /* Signup form */
@@ -243,6 +265,7 @@ blockquote p:first-child {
     border-left: 5px solid #444;
   }
 }
+
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -253,9 +276,15 @@ hr.small {
 hr.medium {
   max-width: 400px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 3px;
   border-color: inherit;
-  border-radius: 3px; 
+  border-radius: 3px;
+}
+hr.long {
+  margin: 15px auto;
+  border-width: 1px;
+  border-color: inherit;
+  border-radius: 3px;
 }
 
 .main-content {
@@ -536,8 +565,16 @@ footer {
 
 footer a {
   color: var(--color2);
-
 }
+
+footer hr {
+  border: none;
+  border-top: 2px solid;
+  margin: 20px auto;
+  color: var(--color2);
+  border-color: var(--color2);
+}
+
 
 footer .list-inline {
   margin: 0;

@@ -2,6 +2,28 @@
 If you want to include any custom html just before </body>, put it in /layouts/partials/footer_custom.html
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/footer_custom.html doesn't exist.
 -->
+<div class="footer-content">
+    <div class="footer-address">
+        <p>
+            <strong>Dover Pottery Studio</strong><br>
+            66 Third Street, LL-100<br>
+            Dover, NH 03820
+        </p>
+    </div>
+    <div class="footer-map">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2908.5171093345893!2d-70.8806233228671!3d43.198642181710056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e2977db05b4a73%3A0x22773c3c4f0b44fe!2sDover%20Pottery%20Studio!5e0!3m2!1sen!2sus!4v1724003833185!5m2!1sen!2sus"
+            width="300"
+            height="200"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy">
+        </iframe>
+    </div>
+</div>
+
+<hr class="medium" />
+
 <div id="mc_embed_shell">
     <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -11,7 +33,7 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 </style>
 <div id="mc_embed_signup">
   <form action="https://studio.us14.list-manage.com/subscribe/post?u=b9a86d05edd92f3d175f5ad3f&amp;id=c381d18160&amp;f_id=00e5c3e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-      <div id="mc_embed_signup_scroll"><h2>Subscribe to our mailing list!</h2>
+      <div id="mc_embed_signup_scroll"><h2>Subscribe to our newsletter!</h2>
           <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
       <div id="mce-responses" class="clear foot">
           <div class="response" id="mce-error-response" style="display: none;"></div>
@@ -31,3 +53,5 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
   </div>
 </form>
 </div>
+
+<hr class="long" />

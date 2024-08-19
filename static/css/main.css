@@ -206,11 +206,11 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: var(--color3);
 }
 @media (prefers-color-scheme: dark) {
   p a {
-    color: #50afff;
+    color: var(--color1);
   }
 }
 

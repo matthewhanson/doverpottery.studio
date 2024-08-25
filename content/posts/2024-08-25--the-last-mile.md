@@ -35,18 +35,18 @@ Check out the gallery of more fish-eye views, showing off the common areas and t
 As you can see there are several empty areas in the studio that are waiting to be filled. This space will consist mostly of worktables and additional shelving (you can't have too much shelving in a pottery studio!). In the next two weeks we are:
 
 - creating glaze tiles for the glaze kitchen
-- building out our tools and glaze mixing
+- building out our tool inventory
 - kiln testing
 - building 8'x4' work tables for member room and handbuilding area
 - building wheel side tables
-- worrying about having enough buckets
 - awaiting additional equipment - slab roller, extruder, another wheel
+- buckets, Buckets, BUCKETS!
 
-## Class Schedule!
+## Class Schedule
 
-In September, we're kicking off with single-session workshops and a couple 4-week introductory classes, offering a perfect opportunity to try your hand at pottery. During these sessions, you'll craftyour own unique pottery pieces, which our staff will then glaze and fire for you to collect later. This provides a great opportunity to get introduced to pottery while creating something special.
+In September, we're kicking off with single-session workshops. During these sessions, you'll craft your own unique pottery pieces, which our staff will then glaze and fire for you to collect later. This provides a great opportunity to get introduced to pottery while creating something special.
 
-Starting in October, our first 8-week session will provide a deeper, more comprehensive pottery experience. All multi-week class enrollments come with access to our open studio times (currently Tuesday evenings and Saturday mornings), allowing for continued practice and skill development in a supportive environment.
+Starting in October, our first session with 4-week and 8-week classes will provide a deeper, more comprehensive pottery experience. All multi-week class enrollments come with access to our open studio times (currently Tuesday evenings and Saturday mornings), allowing for continued practice and skill development in a supportive environment.
 
 To browse our class schedule visit our [Classes page](/page/classes)!.
 

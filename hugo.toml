@@ -15,10 +15,10 @@ logo = "img/dps-logo-v2-gold.png"
 hideAuthor = true
 tags = false
 
-[[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
+#[[menus.main]]
+#name = 'Home'
+#pageRef = '/'
+#weight = 10
 
 [[menus.main]]
 name = 'Classes'

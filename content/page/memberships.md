@@ -12,8 +12,8 @@ Dover Pottery Studio offers membership programs that allow use of the studio fac
 
 Residents enjoy exclusive access to a dedicated room designed for uninterrupted creativity, free from the constraints of class schedules. This space is fully equipped with two pottery wheels, spacious worktables, and ample shelf space for your projects. It’s a perfect haven where residents can immerse themselves in their craft whenever inspiration strikes.
 
-- Full acesss to studio on your schedule (24/7)
-- Dedicated member room with 2 wheels and worktables
+- Full acesss to studio on your schedule (24/7) - 10 wheels, multiple work tables, glaze kitchen, slab roller, and break room
+- Member room with 2 additional wheels and worktables that is always available regardless of classes
 - A 48" x 24" shelf in member room
 - 10% off classes, workshops, and supplies
 

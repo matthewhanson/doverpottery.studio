@@ -15,7 +15,6 @@ We offer multiple classes at different levels of commitment, from single session
 These 2 hour single sessions are perfect for just giving it a try.
 
 {{< card-gallery >}}
-    {{< card title="Handbuilding Workshops" description="Handbuild a unique piece of pottery" image="/img/cc4/pexels-gabby-k-5302906-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/handbuilding-workshop" buttonText="Register">}}
     {{< card title="Explore Wheel" description="Give the wheel a spin and see what you can make" image="/img/cc4/pexels-gabby-k-5302953-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/explore-wheel" buttonText="Register">}}
 {{< /card-gallery >}}
 
@@ -25,7 +24,6 @@ These 2 hour single sessions are perfect for just giving it a try.
 Three and four week classes are intro classes that provide a shorter commitment than our normal 7-week classes. Learn foundational skills of shaping, trimming, and glazing your pieces. This class is perfect for beginners who want to learn the basics and build confidence.
 
 {{< card-gallery >}}
-    {{< card title="Intro to Handbuilding" description="Learn the essentials of hand built pottery" image="/img/cc4/pexels-shvetsa-5641846-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-handbuilding" buttonText="Register">}}
     {{< card title="Intro to Throwing" description="Learn and practice at the potter's wheel" image="/img/cc4/pexels-yankrukov-6611258-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-throwing" buttonText="Register">}}
 {{< /card-gallery >}}
 

@@ -21,19 +21,26 @@
   to { width: 100% }
 }
 
-figure.floatright {
-	max-width: 30%;
-	width: auto\9*0.3; /* ie8 */
-	height: auto;
-	float: right;
+img.floatleft {
+  float: left;
+  margin: 0 1em 1em 0;
+  max-width: 100%;
+  height: auto;
 }
 
-figure.floatleft {
-	max-width: 30%;
-	width: auto\9*0.3; /* ie8 */
-	height: auto;
-	float: left;
-  margin: 20px;
+img.floatright {
+  float: right;
+  margin: 0 0 1em 1em;
+  max-width: 100%;
+  height: auto;
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Buttons */
@@ -334,7 +341,7 @@ img::selection, img::-moz-selection {
 }
 
 
-img {
+img:not(.floatleft):not(.floatright):not(.centered) {
   display: block;
   margin: auto;
   max-width: 100%;

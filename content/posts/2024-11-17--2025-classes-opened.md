@@ -8,7 +8,7 @@ Greetings Potters!
 
 This fall has been a whirlwind of activity as we settle into the rhythm of running a new business. It's been busy but exciting, with packed classes, a successful open house, and an amazing day at Apple Harvest Day. If you stopped by our tent, we hope you enjoyed our Pottery Pong game or snagged one of our limited-edition Apple Harvest Day stickers!
 
-{{< figure src="/img/2024-fall-update/apple-harvest-day-tent.jpg" alt="Studio tent at Apple Harvest Day" >}}
+{{< basic-image class="floatright" width="50%" src="/img/2024-fall-update/apple-harvest-day-tent.jpg" alt="Studio tent at Apple Harvest Day" >}}
 
 <!--more-->
 
@@ -31,8 +31,8 @@ For those finishing classes and considering the next step, membership offers a f
 
 ## Join Us in the New Year
 
-With a growing community, exciting classes, and new workshops, 2025 promises to be an incredible year at Dover Pottery Studio. Whether you’re a seasoned potter or just starting, we can’t wait to help you on your creative journey.
+{{< basic-image class="floatright" width="50%" src="/img/2024-fall-update/apple-harvest-day-stickers.jpg" alt="Stickers for Apple Harvest Day 2024" >}}
 
-{{< figure src="/img/2024-fall-update/apple-harvest-day-stickers.jpg" alt="Stickers for Apple Harvest Day 2024" >}}
+With a growing community, exciting classes, and new workshops, 2025 promises to be an incredible year at Dover Pottery Studio. Whether you’re a seasoned potter or just starting, we can’t wait to help you on your creative journey.
 
 To stay up to date on new classes and happenings, subscribe to our newsletter below.

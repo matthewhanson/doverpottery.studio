@@ -8,7 +8,7 @@ Hello potters,
 
 We’re jazzed to show our progress at our studio with some latest pictures! Over the past few weeks we’ve been hard at work assembling shelves and organizing the studio. While we still have a lot to do we are getting close to a functional studio and now have some long awaited pics!  Here you can see the classroom area with 9 wheels and student shelving.
 
-{{< figure src="/img/the-last-mile/DSC_6233.JPG" alt="Pottery tools" >}}
+{{< basic-image class="floatright" width="50%" src="/img/the-last-mile/DSC_6233.JPG" alt="Pottery tools" >}}
 
 Read on for more pictures of the entire space!
 

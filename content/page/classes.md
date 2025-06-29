@@ -16,7 +16,8 @@ These 2 hour single sessions are perfect for just giving it a try.
 
 {{< card-gallery >}}
     {{< card title="Explore Wheel" description="Give the wheel a spin and see what you can make" image="/img/cc4/pexels-gabby-k-5302953-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/explore-wheel" buttonText="Register">}}
-    {{< card title="Clay & Cider" description="Handbuilding on location at North Country Hard Cider" image="/img/2025-04/north-country-cider.jpg" url="https://doverpotterystudio.kilnfire.com/classes/clay-cider" buttonText="Register">}}
+    {{< card title="Clay & Cider" description="Handbuild on location at North Country" image="/img/2025-04/north-country-cider.jpg" url="https://doverpotterystudio.kilnfire.com/classes/clay-cider" buttonText="Register">}}
+    {{< card title="Workshops" description="Build skills, one session at a time" image="/img/classes/pottery-wheel-students.jpg" url="https://doverpotterystudio.kilnfire.com/classes/workshops" buttonText="Register">}}
 {{< /card-gallery >}}
 
 {{< sep >}}
@@ -27,6 +28,7 @@ Three and four week classes are intro classes that provide a shorter commitment 
 {{< card-gallery >}}
     {{< card title="Intro to Handbuilding" description="Learn the essentials of hand built pottery" image="/img/cc4/pexels-shvetsa-5641846-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-handbuilding" buttonText="Register">}}
     {{< card title="Intro to Throwing" description="Learn and practice at the potter's wheel" image="/img/cc4/pexels-yankrukov-6611258-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-throwing" buttonText="Register">}}
+    {{< card title="Skill Sessions" description="Master one skill at a time" image="/img/classes/glazed-pottery.jpg" url="https://doverpotterystudio.kilnfire.com/classes/skill-sessions" buttonText="Register">}}
 {{< /card-gallery >}}
 
 {{< sep >}}

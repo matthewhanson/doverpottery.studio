@@ -40,7 +40,7 @@ Four-week classes offer a solid introduction to working with clay, with time to 
 
 {{< card-gallery >}}
     {{< card title="Intro to Handbuilding" description="Learn the essentials of hand built pottery" image="/img/cc4/pexels-shvetsa-5641846-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-handbuilding" buttonText="Register">}}
-    {{< card title="Intro to Throwing" description="Learn and practice at the potter's wheel" image="/img/cc4/pexels-yankrukov-6611258-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-throwing" buttonText="Register">}}
+    {{< card title="Intro to Wheel" description="Learn and practice at the potter's wheel" image="/img/cc4/pexels-yankrukov-6611258-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/intro-to-wheel" buttonText="Register">}}
 {{< /card-gallery >}}
 
 {{< sep >}}

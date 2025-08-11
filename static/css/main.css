@@ -1217,3 +1217,27 @@ h4.see-also {
     overflow-x: auto;
     overflow-y: hidden;
   }
+
+  /* Enforce black borders on content tables */
+.container[role="main"] table {
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;
+}
+
+/* Kill any row-level border colors from earlier rules */
+.container[role="main"] table tr {
+  border-top: 0 !important;
+}
+
+/* Black borders on all cells */
+.container[role="main"] table th,
+.container[role="main"] table td {
+  border: 1px solid #000 !important;
+  padding: .5rem .75rem;
+  text-align: left;
+}
+
+/* Optional: crisp outer frame */
+.container[role="main"] table {
+  outline: 1px solid #000;   /* use 2px if you want a thicker outer border */
+}

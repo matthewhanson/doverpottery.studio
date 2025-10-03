@@ -1241,3 +1241,22 @@ h4.see-also {
 .container[role="main"] table {
   outline: 1px solid #000;   /* use 2px if you want a thicker outer border */
 }
+
+/* 1) Kill excess space after the .Content well */
+.container[role="main"] .well {
+  margin-bottom: 0;          /* bootstrap wells default to ~20px */
+  padding-bottom: 0;
+}
+
+/* 2) Ensure the list doesn't add its own gap */
+.posts-list {
+  margin-top: 0;
+}
+
+/* 3) Prevent first/last child margins from creating collapsed gaps */
+.container[role="main"] .well > :first-child { margin-top: 0; }
+.container[role="main"] .well > :last-child  { margin-bottom: 0; }
+
+/* 4) If your shortcodes emit wrappers, trim those too */
+.card-gallery { margin-bottom: 0; padding-bottom: 0; }
+.kilnfire-button-container { margin-top: 8px; margin-bottom: 12px; }

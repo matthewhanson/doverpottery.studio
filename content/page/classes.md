@@ -51,7 +51,7 @@ Seven-week classes offer in-depth instruction and plenty of time to practice, bo
 
 {{< card-gallery >}}
     {{< card title="Foundations of Pottery" description="Get introduced to the basics of hand built pottery" image="/img/cc4/pexels-shvetsa-5642018-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/foundations-of-pottery" buttonText="Register">}}
-    {{< card title="Mixed-Level Wheel" description="Give the wheel a spin and see what you can make" image="/img/cc4/pexels-pixabay-162574-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/mixed-level-wheel" buttonText="Register">}}
+    {{< card title="Wheel Classes" description="Give the wheel a spin and see what you can make" image="/img/cc4/pexels-pixabay-162574-square-thumb.jpg" url="https://doverpotterystudio.kilnfire.com/classes/wheel-classes" buttonText="Register">}}
 {{< /card-gallery >}}
 
 {{< sep >}}
